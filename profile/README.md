@@ -249,7 +249,7 @@ We are building a future-ready company with solutions across industries, grounde
 ## 🌟 What Sets Us Apart
 
 ### Student-Led, Professionally Driven
-A team of young builders (graduation target 2027) balancing academic knowledge with real-world output.
+A team of young builders (graduation target 2026) balancing academic knowledge with real-world output.
 
 ### Purpose-Driven Projects
 Every product must create real-world value.
